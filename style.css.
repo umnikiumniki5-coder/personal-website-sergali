@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Айдана Сергали | Жеке веб-сайт</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <h2>АЙДАНА.</h2>
+        <a href="#about">Мен туралы</a>
+        <a href="#education">Білімім</a>
+        <a href="#interests">Қызығушылықтарым</a>
+        <a href="#goals">Мақсаттарым</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <p class="subtitle">ЖЕКЕ ПОРТФОЛИО</p>
+
+        <h1>Сәлем!<br>Мен Айданамын</h1>
+
+        <p>
+            Білімге ұмтылған, жаңа мүмкіндіктерді
+            зерттейтін және үнемі дамуға талпынатын
+            студентпін.
+        </p>
+
+        <a class="button" href="#about">Мен туралы</a>
+    </div>
+
+    <div class="circle">А</div>
+</section>
+
+<section id="about" class="section">
+    <p class="subtitle">ТАНЫСУ</p>
+    <h2>Мен туралы</h2>
+
+    <p>
+        Менің есімім – Айдана Сергали.
+        Қазіргі уақытта Абай атындағы Қазақ ұлттық
+        педагогикалық университетінің 2-курс студентімін.
+        Мен география саласында білім алып,
+        дүниетанымымды кеңейтуге және кәсіби
+        қабілеттерімді дамытуға қызығамын.
+    </p>
+</section>
+
+<section id="education" class="section light">
+    <p class="subtitle">БІЛІМ ЖОЛЫМ</p>
+    <h2>Білімім</h2>
+
+    <div class="info-card">
+        <h3>Абай атындағы Қазақ ұлттық педагогикалық университеті</h3>
+
+        <p><strong>Білім беру бағдарламасы:</strong>
+        6В01515 – География (IP)</p>
+
+        <p><strong>Курс:</strong> 2-курс</p>
+
+        <p><strong>Топ:</strong> 4-топ</p>
+    </div>
+</section>
+
+<section id="interests" class="section">
+    <p class="subtitle">МЕНІҢ ӘЛЕМІМ</p>
+    <h2>Қызығушылықтарым</h2>
+
+    <div class="cards">
+
+        <div class="info-card">
+            <h3>География</h3>
+            <p>
+                Жер табиғатын, климаттық ерекшеліктерді,
+                географиялық құбылыстар мен әлем елдерін зерттеу.
+            </p>
+        </div>
+
+        <div class="info-card">
+            <h3>Білім және даму</h3>
+            <p>
+                Жаңа білім игеру, іздену,
+                шығармашылық және зияткерлік қабілеттерді дамыту.
+            </p>
+        </div>
+
+        <div class="info-card">
+            <h3>Заманауи технологиялар</h3>
+            <p>
+                Цифрлық құралдарды меңгеру,
+                жаңа технологиялармен жұмыс істеу.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<section id="goals" class="section light">
+    <p class="subtitle">БОЛАШАҚҚА БАҒЫТ</p>
+    <h2>Мақсаттарым</h2>
+
+    <p>
+        Болашақта өз саласының білікті маманы болу,
+        кәсіби білімімді жетілдіру, жаңа тәжірибе жинақтау
+        және алған білімімді тәжірибеде тиімді қолдану.
+        Өзімді жан-жақты дамытып, қоғамға пайдалы
+        тұлға болуды мақсат етемін.
+    </p>
+</section>
+
+<footer>
+    <h3>Айдана Сергали</h3>
+    <p>Менің жеке веб-сайтым</p>
+    <p>© 2026 Барлық құқықтар қорғалған</p>
+</footer>
+
+</body>
+</html>
